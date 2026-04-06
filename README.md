@@ -3,6 +3,7 @@
 ## Getting Started
 
 ```bash
+npm build
 npm install
 npm run dev
 ```
